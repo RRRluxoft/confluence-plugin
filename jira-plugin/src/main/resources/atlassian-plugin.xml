@@ -18,7 +18,7 @@
         <resource type="download" name="confluence-plugin.js" location="/js/confluence-plugin.js"/>
         <resource type="download" name="images/" location="/images"/>
 
-        <context>confluence-plugin</context>
+        <context>jira-plugin</context>
     </web-resource>
     
 </atlassian-plugin>
