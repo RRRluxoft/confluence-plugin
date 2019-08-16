@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sixdx.confluence</groupId>
-    <artifactId>confluence</artifactId>
+    <artifactId>main</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>confluence</name>
+    <name>main</name>
 
     <!-- FIXME the project's website -->
     <url>https://rrrconfluence.atlassian.net/wiki/spaces/DRAGONS/pages/33043/Atlassian+Confluence+configuration</url>
